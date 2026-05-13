@@ -1,77 +1,84 @@
-# Hi, I'm Rimsha Abbas 👋
+# Hi there, I'm Rimsha Abbas 👋 
 
-🎓 BS Computer Science student at the Institute of Space Technology (IST), Islamabad  
-💡 Interested in Software Development, Artificial Intelligence, Machine Learning, and Database Systems  
-🚀 Passionate about building academic and real-world projects
+### Strategic Partnerships Manager | AI Developer | Full-Stack Enthusiast
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](mailto:rimshaabbas2006@gmail.com) 
+[![Location](https://img.shields.io/badge/Location-Islamabad%2C%20Pakistan-green)](https://www.google.com/maps/place/Islamabad)
 
----
-
-## 👩‍💻 About Me
-
-I am a Computer Science undergraduate with strong fundamentals in programming, data structures, databases, and AI-based systems. I enjoy learning new technologies and applying theoretical concepts to practical implementations. I am actively preparing myself for internships and industry-level opportunities.
+I am a **Computer Science graduate** at the **Institute of Space Technology (IST)**, specializing in AI, Automation, and Full Stack Development. I focus on building scalable AI solutions from **RAG-based systems** to **automated research tools** that solve real world operational challenges.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Arsenal
 
-### Programming Languages
-- C++
-- Python
-- Java
-- Kotlin
-- C# (C Sharp)
-- PHP
-
-### Technologies & Frameworks
-- Qt Framework (C++)
-- Android Development
-- .NET (Basic)
-- MySQL
-- HTML, CSS, JavaScript
-- Bootstrap
-
-### Operating Systems & Tools
-- Linux (Command Line, File System Handling, Basic Networking)
-- Git & GitHub
-
-### Core Concepts
-- Object-Oriented Programming (OOP)
-- Data Structures & Algorithms
-- Database Design & SQL
-- Software Engineering Fundamentals
-- Machine Learning 
-### Additional Skills
-- Web Scraping (Python – BeautifulSoup, Requests)
-- Data Collection & Preprocessing
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, C++, Node.js, TypeScript, JavaScript (React Native), Java, PHP |
+| **AI & Automation** | RAG (Retrieval-Augmented Generation), n8n, AI Model Training, Image-Text Matching |
+| **Data & Web** | PostgreSQL, SQL, Web Scraping (BeautifulSoup/Requests), HTML/CSS, Tailwind |
+| **Tools & OS** | Linux (CLI), Git/GitHub, Android SDK, Qt Framework, .NET |
 
 ---
 
-## 📂 Academic Projects
+## 🚀 Professional Experience
 
-### 🔹 PakStyleLens – AI Fashion Recommendation App (6th Semester)
-An AI-powered real-time fashion recommendation system that suggests the two most relevant outfits based on an uploaded image. The system uses scraped fashion data, a trained image–text matching model, and an Android application to provide recommendations filtered by brand, color, and style.
+### **AI Developer Intern** | *ClickTake Technologies* 
+*(April 2026 – Present)*
+*   Developing an AI-powered multi-tenant platform to automate task assignments and project management for admins and interns.
+*   Building a privacy-focused time tracker with real-time activity monitoring synced across web and mobile.
 
-**Technologies:** Python, Deep Learning, Android (Kotlin), Web Scraping
+### **Strategic Partnerships Manager & AI Automation Intern** | *TheEduAssist* 
+*(Jan 2026 – April 2026)*
+*   Engineered **n8n-based workflows** that automate company research, personalized outreach, and smart follow-ups.
+*   Managed organizational partnerships while building internal tools to save hundreds of manual work hours.
 
----
-
-### 🔹 Task Scheduler Application – DSA Project
-A desktop application developed using C++ and the Qt framework, implementing core Data Structures and Algorithms such as Stack (undo/redo), Priority Queue (task prioritization), Linked List (dynamic task handling), and Bubble Sort.
-
-**Technologies:** C++, Qt Framework, Data Structures & Algorithms
-
----
-
-### 🔹 Car Rental System – Database Project
-A relational database system designed to manage cars, clients, customers, drivers, and rental transactions. The project ensures data integrity using primary and foreign key constraints and integrates a PHP-based backend with a web frontend.
-
-**Technologies:** MySQL, PHP, HTML, CSS, JavaScript, Bootstrap
+### **Generative AI Intern** | *HEC, Pak Angels & CodeGuro* 
+*(Jan 2026 – March 2026)*
+*   Built and deployed custom **RAG chatbots** designed to retrieve real-time data for precise, context-aware responses.
 
 ---
 
-## 🎯 Areas of Interest
-- Artificial Intelligence & Machine Learning
--Data Cleaning and Preprocessing
- - Academic Research & Software Projects
+## 📂 Featured Projects
+
+### 🤖 [AURA: Advanced University Response Assistant](https://github.com/RimshaAbbas/AURA)
+**Full-Stack RAG AI System**
+*   Developed a document-grounded chatbot using **Node.js and React** to provide instant organizational responses.
+*   Features a secure admin dashboard for real-time knowledge management and detailed usage analytics.
+
+### 🔍 [Vanguard Research AI (VRAI)](https://github.com/RimshaAbbas/VRAI)
+**Academic Novelty & Gap Analysis Tool**
+*   Automates literature reviews by analyzing complex PDFs and performing real-time global research cross-checks.
+*   Helps researchers validate ideas and ensure high-novelty output through AI-driven milestone extraction.
+
+### 👗 [PakStyleLens](https://github.com/RimshaAbbas/PakStyleLens)
+**AI Fashion Recommendation App**
+*   Built a **React Native** application that recommends outfits based on user-uploaded images.
+*   Integrated custom web-scrapers to extract live product data from major retailers like Khaadi and Gul Ahmed.
+
+### 🏢 [Admin & Employee Management System]
+**Full-Stack Multi-tenant Platform**
+*   Features secure user roles, a project marketplace, and automated HR management tools.
+*   Integrated automated billing systems for milestone payments, multi-currency invoices, and employee payroll.
+
+### 📅 [Task Scheduling System](https://github.com/RimshaAbbas/Task-Scheduler)
+**DSA & OOP Notification System**
+*   Designed a desktop application using **C++ and the Qt framework** to manage daily workloads.
+*   Implements core Data Structures (Stacks, Priority Queues, Linked Lists) for real-time task reminders and undo/redo functionality.
+
+### 🚗 [Car Rental System](https://github.com/RimshaAbbas/Car-Rental)
+**Relational Database Project**
+*   Designed a comprehensive system to manage clients, drivers, and transactions using **MySQL and PHP**.
+*   Ensures strict data integrity using primary/foreign key constraints with a Bootstrap-based frontend.
+
 ---
-⭐ Always eager to learn, grow, and collaborate on meaningful projects.
+
+## 📊 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=RimshaAbbas&show_icons=true&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RimshaAbbas&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 📫 Connect with Me
+- 📧 **Email:** [rimshaabbas2006@gmail.com](mailto:rimshaabbas2006@gmail.com)
+- 🤝 **Collaboration:** Open to projects involving AI developement, RAG, and Workflow Automation.

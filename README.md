@@ -37,37 +37,47 @@ I am a **Computer Science graduate** at the **Institute of Space Technology (IST
 
 ---
 
-## 📂 Featured Projects
+🤖 AURA: Advanced University Response Assistant
+Enterprise-Grade RAG AI Ecosystem
 
-### 🤖 [AURA: Advanced University Response Assistant]
-**Full-Stack RAG AI System**
-*   Developed a document-grounded chatbot using **Node.js and React** to provide instant organizational responses.
-*   Features a secure admin dashboard for real  time knowledge management and detailed usage analytics.
+Architectural Overview: Engineered a sophisticated Retrieval-Augmented Generation (RAG) system utilizing Node.js and React. The system leverages vector embeddings to perform semantic searches across unstructured organizational documents, ensuring high-fidelity, context-aware responses.
 
-### 🔍 [Vanguard Research AI (VRAI)]
-**Academic Novelty & Gap Analysis Tool**
-*   Automates literature reviews by analyzing complex PDFs and performing real time global research cross checks.
-*   Helps researchers validate ideas and ensure high-novelty output through AI driven milestone extraction.
+Key Innovation: Developed a secure, role-based Administrative Dashboard that enables real-time knowledge base synchronization and monitors system performance through granular usage analytics.
 
-### 👗 [PakStyleLens]
-**AI Fashion Recommendation App**
-*   Built a **React Native** application that recommends outfits based on user-uploaded images.
-*   Integrated custom web-scrapers to extract live product data from major retailers like Khaadi and Gul Ahmed.
+🔍 Vanguard Research AI (VRAI)
+Automated Academic Gap Analysis & Verification Tool
 
-### 🏢 [Admin & Employee Management System]
-**Full-Stack Multi-tenant Platform**
-*   Features secure user roles, a project marketplace, and automated HR management tools.
-*   Integrated automated billing systems for milestone payments,Project assigned, analytics and employee payroll.
+Architectural Overview: Designed an AI-driven research assistant to mitigate the risk of intellectual redundancy in academic publishing. The tool employs advanced PDF parsing and NLP to extract core methodologies and cross-reference them against global research repositories.
 
-### 📅 [Task Scheduling System]
-**DSA & OOP Notification System**
-*   Designed a desktop application using **C++ and the Qt framework** to manage daily workloads.
-*   Implements core Data Structures (Stacks, Priority Queues, Linked Lists) for real-time task reminders and undo/redo functionality.
+Key Innovation: Implemented an automated "Gap Analysis" workflow that identifies untapped research milestones, providing researchers with a data-backed validation of novelty.
 
-### 🚗 [Car Rental System]
-**Relational Database Project**
-*   Designed a comprehensive system to manage clients, drivers, and transactions using **MySQL and PHP**.
-*   Ensures strict data integrity using primary/foreign key constraints with a Bootstrap-based frontend.
+👗 PakStyleLens
+AI-Driven Computer Vision Fashion Platform
+
+Architectural Overview: Developed a cross-platform mobile application using React Native that utilizes Deep Learning models for image-text matching. The system classifies user-uploaded imagery to provide curated style recommendations.
+
+Key Innovation: Built high-performance, asynchronous web scrapers in Python to aggregate real-time inventory and pricing data from tier-1 fashion retailers, ensuring the recommendation engine reflects current market availability.
+
+🏢 Admin & Employee Management System
+Multi-Tenant SaaS Infrastructure
+
+Architectural Overview: Architected a comprehensive multi-tenant platform designed to centralize organizational workflows. The system manages complex user hierarchies, secure authentication, and a dynamic project marketplace.
+
+Key Innovation: Integrated an automated financial module for milestone-based billing and payroll processing, supported by a real-time analytics engine to track employee productivity and project health.
+
+📅 Task Scheduling System
+High-Performance Desktop Utility (C++/Qt)
+
+Architectural Overview: Developed a robust task management environment using C++ and the Qt Framework, adhering strictly to Object-Oriented Programming (OOP) principles.
+
+Key Innovation: Optimized task retrieval and state management by implementing custom Data Structures—including Priority Queues for importance-based sorting and Doubly Linked Lists for seamless undo/redo functionality.
+
+🚗 Car Rental System
+Relational Database & Transactional Management System
+
+Architectural Overview: Designed a normalized relational database schema in MySQL to handle complex entity relationships between clients, vehicles, and multi-day rental transactions.
+
+Key Innovation: Implemented strict referential integrity constraints and stored procedures to prevent data anomalies, paired with a PHP-driven responsive web interface for optimized UX.
 
 ## 📫 Connect with Me
 - 📧 **Email:** [rimshaabbas2006@gmail.com](mailto:rimshaabbas2006@gmail.com)

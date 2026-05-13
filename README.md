@@ -39,17 +39,17 @@ I am a **Computer Science graduate** at the **Institute of Space Technology (IST
 
 ## 📂 Featured Projects
 
-### 🤖 [AURA: Advanced University Response Assistant](https://github.com/RimshaAbbas/AURA)
+### 🤖 [AURA: Advanced University Response Assistant]
 **Full-Stack RAG AI System**
 *   Developed a document-grounded chatbot using **Node.js and React** to provide instant organizational responses.
 *   Features a secure admin dashboard for real-time knowledge management and detailed usage analytics.
 
-### 🔍 [Vanguard Research AI (VRAI)](https://github.com/RimshaAbbas/VRAI)
+### 🔍 [Vanguard Research AI (VRAI)]
 **Academic Novelty & Gap Analysis Tool**
 *   Automates literature reviews by analyzing complex PDFs and performing real-time global research cross-checks.
 *   Helps researchers validate ideas and ensure high-novelty output through AI-driven milestone extraction.
 
-### 👗 [PakStyleLens](https://github.com/RimshaAbbas/PakStyleLens)
+### 👗 [PakStyleLens]
 **AI Fashion Recommendation App**
 *   Built a **React Native** application that recommends outfits based on user-uploaded images.
 *   Integrated custom web-scrapers to extract live product data from major retailers like Khaadi and Gul Ahmed.
@@ -59,12 +59,12 @@ I am a **Computer Science graduate** at the **Institute of Space Technology (IST
 *   Features secure user roles, a project marketplace, and automated HR management tools.
 *   Integrated automated billing systems for milestone payments, multi-currency invoices, and employee payroll.
 
-### 📅 [Task Scheduling System](https://github.com/RimshaAbbas/Task-Scheduler)
+### 📅 [Task Scheduling System]
 **DSA & OOP Notification System**
 *   Designed a desktop application using **C++ and the Qt framework** to manage daily workloads.
 *   Implements core Data Structures (Stacks, Priority Queues, Linked Lists) for real-time task reminders and undo/redo functionality.
 
-### 🚗 [Car Rental System](https://github.com/RimshaAbbas/Car-Rental)
+### 🚗 [Car Rental System]
 **Relational Database Project**
 *   Designed a comprehensive system to manage clients, drivers, and transactions using **MySQL and PHP**.
 *   Ensures strict data integrity using primary/foreign key constraints with a Bootstrap-based frontend.

@@ -36,7 +36,7 @@ I am a **Computer Science graduate** at the **Institute of Space Technology (IST
 *   Built and deployed custom **RAG chatbots** designed to retrieve real time data for precise, context-aware responses.
 
 ---
-
+Core Technical Projects
 🤖 AURA: Advanced University Response Assistant
 Enterprise-Grade RAG AI Ecosystem
 
@@ -49,12 +49,12 @@ Automated Academic Gap Analysis & Verification Tool
 
 Architectural Overview: Designed an AI-driven research assistant to mitigate the risk of intellectual redundancy in academic publishing. The tool employs advanced PDF parsing and NLP to extract core methodologies and cross-reference them against global research repositories.
 
-Key Innovation: Implemented an automated "Gap Analysis" workflow that identifies untapped research milestones, providing researchers with a data-backed validation of novelty.
+Key Innovation: Implemented an automated "Gap Analysis" workflow that identifies untapped research milestones, providing researchers with data-backed validation of novelty and academic rigor.
 
 👗 PakStyleLens
 AI-Driven Computer Vision Fashion Platform
 
-Architectural Overview: Developed a cross-platform mobile application using React Native that utilizes Deep Learning models for image-text matching. The system classifies user-uploaded imagery to provide curated style recommendations.
+Architectural Overview: Developed a cross-platform mobile application using React Native that utilizes Deep Learning models for image-text matching. The system classifies user-uploaded imagery to provide curated style recommendations based on visual features.
 
 Key Innovation: Built high-performance, asynchronous web scrapers in Python to aggregate real-time inventory and pricing data from tier-1 fashion retailers, ensuring the recommendation engine reflects current market availability.
 
@@ -63,12 +63,12 @@ Multi-Tenant SaaS Infrastructure
 
 Architectural Overview: Architected a comprehensive multi-tenant platform designed to centralize organizational workflows. The system manages complex user hierarchies, secure authentication, and a dynamic project marketplace.
 
-Key Innovation: Integrated an automated financial module for milestone-based billing and payroll processing, supported by a real-time analytics engine to track employee productivity and project health.
+Key Innovation: Integrated an automated financial module for milestone-based billing, project-specific analytics, and payroll processing, supported by a real-time activity monitoring engine.
 
 📅 Task Scheduling System
 High-Performance Desktop Utility (C++/Qt)
 
-Architectural Overview: Developed a robust task management environment using C++ and the Qt Framework, adhering strictly to Object-Oriented Programming (OOP) principles.
+Architectural Overview: Developed a robust task management environment using C++ and the Qt Framework, adhering strictly to Object-Oriented Programming (OOP) principles and efficient memory management.
 
 Key Innovation: Optimized task retrieval and state management by implementing custom Data Structures—including Priority Queues for importance-based sorting and Doubly Linked Lists for seamless undo/redo functionality.
 
@@ -77,8 +77,7 @@ Relational Database & Transactional Management System
 
 Architectural Overview: Designed a normalized relational database schema in MySQL to handle complex entity relationships between clients, vehicles, and multi-day rental transactions.
 
-Key Innovation: Implemented strict referential integrity constraints and stored procedures to prevent data anomalies, paired with a PHP-driven responsive web interface for optimized UX.
-
+Key Innovation: Implemented strict referential integrity constraints and stored procedures to prevent data anomalies, paired with a PHP-driven responsive web interface for optimized administrative control
 ## 📫 Connect with Me
 - 📧 **Email:** [rimshaabbas2006@gmail.com](mailto:rimshaabbas2006@gmail.com)
 - 🤝 **Collaboration:** Open to projects involving AI developement, RAG, and Workflow Automation.

@@ -23,17 +23,17 @@ I am a **Computer Science graduate** at the **Institute of Space Technology (IST
 
 ### **AI Developer Intern** | *ClickTake Technologies* 
 *(April 2026 – Present)*
-*   Developing an AI-powered multi-tenant platform to automate task assignments and project management for admins and interns.
-*   Building a privacy-focused time tracker with real-time activity monitoring synced across web and mobile.
+*   Developing an AI-powered multi tenant platform to automate task assignments and project management for admins and interns.
+*   Building a privacy focused time tracker with real-time activity monitoring synced across web and mobile.
 
 ### **Strategic Partnerships Manager & AI Automation Intern** | *TheEduAssist* 
 *(Jan 2026 – April 2026)*
-*   Engineered **n8n-based workflows** that automate company research, personalized outreach, and smart follow-ups.
+*   Engineered **n8n-based workflows** that automate company research, personalized outreach, and smart follow ups.
 *   Managed organizational partnerships while building internal tools to save hundreds of manual work hours.
 
 ### **Generative AI Intern** | *HEC, Pak Angels & CodeGuro* 
 *(Jan 2026 – March 2026)*
-*   Built and deployed custom **RAG chatbots** designed to retrieve real-time data for precise, context-aware responses.
+*   Built and deployed custom **RAG chatbots** designed to retrieve real time data for precise, context-aware responses.
 
 ---
 
@@ -42,12 +42,12 @@ I am a **Computer Science graduate** at the **Institute of Space Technology (IST
 ### 🤖 [AURA: Advanced University Response Assistant]
 **Full-Stack RAG AI System**
 *   Developed a document-grounded chatbot using **Node.js and React** to provide instant organizational responses.
-*   Features a secure admin dashboard for real-time knowledge management and detailed usage analytics.
+*   Features a secure admin dashboard for real  time knowledge management and detailed usage analytics.
 
 ### 🔍 [Vanguard Research AI (VRAI)]
 **Academic Novelty & Gap Analysis Tool**
-*   Automates literature reviews by analyzing complex PDFs and performing real-time global research cross-checks.
-*   Helps researchers validate ideas and ensure high-novelty output through AI-driven milestone extraction.
+*   Automates literature reviews by analyzing complex PDFs and performing real time global research cross checks.
+*   Helps researchers validate ideas and ensure high-novelty output through AI driven milestone extraction.
 
 ### 👗 [PakStyleLens]
 **AI Fashion Recommendation App**
@@ -57,7 +57,7 @@ I am a **Computer Science graduate** at the **Institute of Space Technology (IST
 ### 🏢 [Admin & Employee Management System]
 **Full-Stack Multi-tenant Platform**
 *   Features secure user roles, a project marketplace, and automated HR management tools.
-*   Integrated automated billing systems for milestone payments, multi-currency invoices, and employee payroll.
+*   Integrated automated billing systems for milestone payments,Project assigned, analytics and employee payroll.
 
 ### 📅 [Task Scheduling System]
 **DSA & OOP Notification System**
@@ -68,16 +68,6 @@ I am a **Computer Science graduate** at the **Institute of Space Technology (IST
 **Relational Database Project**
 *   Designed a comprehensive system to manage clients, drivers, and transactions using **MySQL and PHP**.
 *   Ensures strict data integrity using primary/foreign key constraints with a Bootstrap-based frontend.
-
----
-
-## 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=RimshaAbbas&show_icons=true&theme=radical&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RimshaAbbas&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
 
 ## 📫 Connect with Me
 - 📧 **Email:** [rimshaabbas2006@gmail.com](mailto:rimshaabbas2006@gmail.com)

@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](mailto:rimshaabbas2006@gmail.com) 
 [![Location](https://img.shields.io/badge/Location-Islamabad%2C%20Pakistan-green)](https://www.google.com/maps/place/Islamabad)
 
-I am a **Computer Science graduate** from the **Institute of Space Technology (IST)**, specializing in AI, Automation, and Full-Stack Development. My work focuses on building scalable AI solutions—from **RAG-based systems** to **automated research tools**—designed to solve complex, real-world operational challenges.
+I am a **Computer Science graduate** from the **Institute of Space Technology (IST)**, specializing in AI, Automation, and Full Stack Development. My work focuses on building scalable AI solutions from **RAG-based systems** to **automated research tools** designed to solve complex, real world operational challenges.
 
 ---
 
@@ -12,10 +12,10 @@ I am a **Computer Science graduate** from the **Institute of Space Technology (I
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Python, C++, Node.js, TypeScript, JavaScript (React Native), Java, PHP |
-| **AI & Automation** | RAG (Retrieval-Augmented Generation), n8n, AI Model Training, Image-Text Matching |
+| **Languages** | Python, C++, Node.js, TypeScript, JavaScript (React Native), Java,  |
+| **AI & Automation** | RAG (Retrieval Augmented Generation), n8n, AI Model Training, Image Text Matching |
 | **Data & Web** | PostgreSQL, SQL, Web Scraping (BeautifulSoup/Requests), HTML/CSS, Tailwind |
-| **Tools & OS** | Linux (CLI), Git/GitHub, Android SDK, Qt Framework, .NET |
+| **Tools & OS** | Linux (CLI), Git/GitHub, Android , Qt Framework, .NET |
 
 ---
 
@@ -35,6 +35,13 @@ I am a **Computer Science graduate** from the **Institute of Space Technology (I
 *(Jan 2026 – March 2026)*
 *   Deployed custom **RAG-based chatbots** utilizing vector databases to provide document grounded, context aware responses for specialized datasets.
 
+
+### **AI Model Training Intern | PIEAS University, Islamabad* 
+
+•Collaborated on high-level AI model training and data optimization tasks
+
+•Performed data preprocessing and improved model performance through optimization techniques.
+
 ---
 
 ## 📂 Core Technical Projects
@@ -51,8 +58,8 @@ I am a **Computer Science graduate** from the **Institute of Space Technology (I
 
 ### 👗 **PakStyleLens**
 **AI-Driven Computer Vision Fashion Platform**
-*   **Architectural Overview:** Developed a cross-platform mobile application using **React Native** that utilizes Deep Learning models for image-text matching. The system classifies user-uploaded imagery to provide curated style recommendations based on visual feature extraction.
-*   **Technical Innovation:** Built high-performance, asynchronous web scrapers in **Python** to aggregate real time inventory and pricing data from tier-1 fashion retailers, ensuring the recommendation engine reflects current market availability.
+*   **Architectural Overview:** Developed a cross-platform mobile application using **React Native** that utilizes Deep Learning models for image text matching. The system classifies user uploaded imagery to provide curated style recommendations based on visual feature extraction.
+*   **Technical Innovation:** Built high performance, asynchronous web scrapers in **Python** to aggregate real time inventory and pricing data from tier-1 fashion retailers, ensuring the recommendation engine reflects current market availability.
 
 ### 🏢 **Admin & Employee Management System**
 **Multi-Tenant SaaS Infrastructure**
@@ -62,11 +69,11 @@ I am a **Computer Science graduate** from the **Institute of Space Technology (I
 ### 📅 **Task Scheduling System**
 **High-Performance Desktop Utility (C++/Qt)**
 *   **Architectural Overview:** Developed a robust task management environment using **C++** and the **Qt Framework**, adhering to strict Object Oriented Programming (OOP) principles and optimized memory management.
-*   **Technical Innovation:** Optimized state management by implementing custom **Data Structures**—specifically Priority Queues for importance-based sorting and Doubly Linked Lists for seamless undo/redo functionality and dynamic task handling.
+*   **Technical Innovation:** Optimized state management by implementing custom **Data Structures** specifically Priority Queues for importance-based sorting and Doubly Linked Lists for seamless undo/redo functionality and dynamic task handling.
 
 ### 🚗 **Car Rental System**
 **Relational Database & Transactional Management System**
-*   **Architectural Overview:** Designed a normalized relational database schema in **MySQL** to handle complex entity relationships between clients, vehicle inventory, and multi-day rental transactions.
+*   **Architectural Overview:** Designed a normalized relational database schema in **MySQL** to handle complex entity relationships between clients, vehicle inventory, and multi day rental transactions.
 *   **Technical Innovation:** Implemented strict referential integrity constraints and stored procedures to eliminate data anomalies, paired with a **PHP**-driven responsive web interface for optimized administrative oversight.
 
 

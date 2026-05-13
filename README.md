@@ -1,6 +1,6 @@
 # Hi there, I'm Rimsha Abbas 👋 
 
-### Strategic Partnerships Manager | AI Developer | Full-Stack Enthusiast
+### Strategic Partnerships Manager | AI Developer | Full Stack Development
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](mailto:rimshaabbas2006@gmail.com) 
 [![Location](https://img.shields.io/badge/Location-Islamabad%2C%20Pakistan-green)](https://www.google.com/maps/place/Islamabad)
 

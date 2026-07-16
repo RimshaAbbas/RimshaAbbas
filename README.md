@@ -1,6 +1,6 @@
 # Hi there, I'm Rimsha Abbas 👋 
 
-### Strategic Partnerships Manager | AI Developer | Full Stack Development
+### Web Developer | AI Developer | Full Stack Development
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](mailto:rimshaabbas2006@gmail.com) 
 [![Location](https://img.shields.io/badge/Location-Islamabad%2C%20Pakistan-green)](https://www.google.com/maps/place/Islamabad)
 
@@ -14,15 +14,22 @@ I am a **Computer Science graduate** from the **Institute of Space Technology (I
 | :--- | :--- |
 | **Languages** | Python, C++, Node.js, TypeScript, JavaScript (React Native), Java, Express.js  |
 | **AI & Automation** | RAG (Retrieval Augmented Generation), n8n, AI Model Training, Image Text Matching |
-| **Data & Web** | PostgreSQL, SQL, Web Scraping (BeautifulSoup/Requests), HTML/CSS, Tailwind, MongoDB |
-| **Tools & OS** | Linux (CLI), Git/GitHub, Android , Qt Framework, .NET |
-
+| **Data & Web** | PostgreSQL, SQL, Web Scraping (BeautifulSoup/Requests), HTML/CSS, Tailwind, MongoDB |Restful APIs| 
+| **Tools & OS** | Linux (CLI), Git/GitHub, Android , Qt Framework, .NET | Auth2| Unit Testing
 ---
 
 ## 🚀 Professional Experience
 
-### **Full Stack Developer** | *Apexcify Technologies* 
+### **Junior Web  Developer** | *Skill IT Agency* 
 *(June 2026 – Present)*
+* Built the Multi Clinic Care platform from scratch using Webflow, developing a fully responsive patient portal, appointment booking system, and admin dashboard for streamlined clinic operations.
+
+### **Full Stack Developer** | *Decode Labs* 
+*(June 2026 – Present)*
+* DecodeLabs Project 1 is a responsive, single-page website built with pure vanilla HTML, CSS, and JavaScript no frameworks or libraries. It includes sections for Home, Dashboard, Features, Team, and Contact, with a mobile-friendly navigation (hamburger menu). The UI features scroll-triggered animations using Intersection Observer and is designed with accessibility and mobile-first principles in mind.
+
+### **Full Stack Developer** | *Apexcify Technologies* 
+*(June 2026 – July 2026)*
 * A multi-vendor e-commerce platform built with HTML/CSS/JS and an Express.js backend that supports separate user roles for Customers, Vendors, and Admins.
 *  It lets vendors list products while enabling customers to manage a shopping cart, complete orders with tracking, and leave reviews.
 

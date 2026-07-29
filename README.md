@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](mailto:rimshaabbas2006@gmail.com) 
 [![Location](https://img.shields.io/badge/Location-Islamabad%2C%20Pakistan-green)](https://www.google.com/maps/place/Islamabad)
 
-I am a **Computer Science graduate** from the **Institute of Space Technology (IST)**, specializing in AI, Automation, and Full Stack Development. My work focuses on building scalable AI solutions from **RAG-based systems** to **automated research tools** designed to solve complex, real world operational challenges.
+I am a **Computer Science graduate** from the **Institute of Space Technology (IST)**, specializing in AI, Web Developer, Automation, and Full Stack Development. My work focuses on building scalable AI solutions from **RAG-based systems** to **automated research tools** designed to solve complex, real world operational challenges.
 
 ---
 
@@ -15,7 +15,7 @@ I am a **Computer Science graduate** from the **Institute of Space Technology (I
 | **Languages** | Python, C++, Node.js, TypeScript, JavaScript (React Native), Java, Express.js  |
 | **AI & Automation** | RAG (Retrieval Augmented Generation), n8n, AI Model Training, Image Text Matching |
 | **Data & Web** | PostgreSQL, SQL, Web Scraping (BeautifulSoup/Requests), HTML/CSS, Tailwind, MongoDB |Restful APIs| 
-| **Tools & OS** | Linux (CLI), Git/GitHub, Android , Qt Framework, .NET | Auth2| Unit Testing
+| **Tools & OS** | Linux (CLI), Git/GitHub, Android, Qt Framework, .NET | Auth2| Unit Testing
 ---
 
 ## 🚀 Professional Experience
@@ -97,3 +97,6 @@ I am a **Computer Science graduate** from the **Institute of Space Technology (I
 ## 📫 Connect with Me
 - 📧 **Email:** [rimshaabbas2006@gmail.com](mailto:rimshaabbas2006@gmail.com)
 - 🤝 **Collaboration:** Open to projects involving **AI Development**, **RAG Architectures**, and **Advanced Workflow Automation**.
+- https://botanical-canvas-magic.lovable.app
+- https://golden-grove-hub.lovable.app
+- 

@@ -25,7 +25,7 @@ I am a **Computer Science graduate** from the **Institute of Space Technology (I
 * Built the Multi Clinic Care platform from scratch using Webflow, developing a fully responsive patient portal, appointment booking system, and admin dashboard for streamlined clinic operations.
 
 ### **Full Stack Developer** | *Decode Labs* 
-*(June 2026 – Present)*
+*(June 2026 – july 2026)*
 * DecodeLabs Project 1 is a responsive, single-page website built with pure vanilla HTML, CSS, and JavaScript no frameworks or libraries. It includes sections for Home, Dashboard, Features, Team, and Contact, with a mobile-friendly navigation (hamburger menu). The UI features scroll-triggered animations using Intersection Observer and is designed with accessibility and mobile-first principles in mind.
 
 ### **Full Stack Developer** | *Apexcify Technologies* 
@@ -99,4 +99,6 @@ I am a **Computer Science graduate** from the **Institute of Space Technology (I
 - 🤝 **Collaboration:** Open to projects involving **AI Development**, **RAG Architectures**, and **Advanced Workflow Automation**.
 - https://botanical-canvas-magic.lovable.app
 - https://golden-grove-hub.lovable.app
+- https://fire-to-feast-forge.lovable.app
+- https://mango-splosion-studio.lovable.app
 - 

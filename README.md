@@ -60,7 +60,7 @@ I am a **Computer Science graduate** from the **Institute of Space Technology (I
 
 ### 🤖 **AURA: Advanced University Response Assistant(FYP)**
 ** RAG AI Ecosystem**
-*   **Architectural Overview:** Engineered a sophisticated Retrieval-Augmented Generation (RAG) system utilizing **Node.js** and **React**. The architecture leverages vector embeddings and semantic search to query unstructured organizational documentation, ensuring high-fidelity, context-aware responses.
+*   **Architectural Overview:** AURA is a full-stack, enterprise-grade RAG platform designed for automated knowledge retrieval, multi-modal document processing, academic merit evaluation, and spatial navigation. The platform processes raw structured/unstructured documents via a Python FastAPI service utilizing MinerU and Gemini Vision, generating 768-dimensional embeddings stored in Supabase PostgreSQL (pgvector). Using intent-based query routing and synonym expansion, AURA retrieves grounded document context to drive Gemini 2.5 Pro responses. Additional technical features include a dual-mode campus navigation service (combining server-side Dijkstra’s Algorithm with the Google Maps Routes API) and an administrative analytics dashboard for tracking knowledge gaps and latency.
 *   **Technical Innovation:** Developed a secure, rolebased Administrative Dashboard that enables real-time synchronization of the knowledge base and provides granular analytics on system latency and response accuracy.
 
 ### 🔍 **Multi-Vendor eCommerce Platform**

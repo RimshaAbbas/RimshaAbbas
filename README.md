@@ -60,21 +60,24 @@ I am a **Computer Science graduate** from the **Institute of Space Technology (I
 
 ### 🤖 **AURA: Advanced University Response Assistant(FYP)**
 ** RAG AI Ecosystem**
-*   **Architectural Overview:** AURA is a full-stack, enterprise-grade RAG platform designed for automated knowledge retrieval, multi-modal document processing, academic merit evaluation, and spatial navigation. The platform processes raw structured/unstructured documents via a Python FastAPI service utilizing MinerU and Gemini Vision, generating 768-dimensional embeddings stored in Supabase PostgreSQL (pgvector). Using intent-based query routing and synonym expansion, AURA retrieves grounded document context to drive Gemini 2.5 Pro responses. Additional technical features include a dual-mode campus navigation service (combining server-side Dijkstra’s Algorithm with the Google Maps Routes API) and an administrative analytics dashboard for tracking knowledge gaps and latency.
-*   **Technical Innovation:** Developed a secure, rolebased Administrative Dashboard that enables real-time synchronization of the knowledge base and provides granular analytics on system latency and response accuracy.
-
+ **Architectural Overview:** AURA is a full-stack, enterprise-grade RAG platform designed for automated knowledge retrieval, multi-modal document processing, academic merit evaluation, and spatial navigation. The platform processes raw structured/unstructured documents via a Python FastAPI service utilizing MinerU and Gemini Vision, generating 768-dimensional embeddings stored in Supabase PostgreSQL (pgvector). Using intent-based query routing and synonym expansion, AURA retrieves grounded document context to drive Gemini 2.5 Pro responses. Additional technical features include a dual-mode campus navigation service (combining server-side Dijkstra’s Algorithm with the Google Maps Routes API) and an administrative analytics dashboard for tracking knowledge gaps and latency.
+ **Technical Innovation:** Developed a secure, rolebased Administrative Dashboard that enables real-time synchronization of the knowledge base and provides granular analytics on system latency and response accuracy.
 
 ###  **Hospital Operating System (Multi-Tenant Platform)**
 
 Engineered a scalable, multi-tenant clinic management system designed to streamline operational workflows across public patient bookings and protected administrative tasks. On the client side, the platform enables patients to filter doctors by specialty, check live slot availability, and secure appointments while receiving automated SMS confirmations and unique tracking IDs. On the administrative side, the application features role-based access control (super_admin, receptionist, doctor), enabling staff to manage schedules and navigate a stateful lab order tracking pipeline (Prescribed to Results Ready). Built on Supabase, the architecture leverages PostgreSQL multi-tenancy, real-time database subscriptions for instant UI updates, Edge Functions for automated notification dispatch, and Discord webhooks for instant team alerts, delivering a cohesive operational ecosystem for healthcare providers.
 **Technical Innovation** (C#, REST APIs, WebSockets, OAuth 2.0, React 18, Vite, Node.js, Express, Supabase (PostgreSQL, Realtime, Auth, Edge Functions), Tailwind CSS, Three.js)
 
+### 🏢 **Admin & Employee Management System**
+**Multi-Tenant SaaS Infrastructure**
+*   **Architectural Overview:** A multi-tenant employee management system that streamlines organization-wide operations by enabling tenant isolation, role-based access control (RBAC), and secure user authentication. Built with a high-performance FastAPI and PostgreSQL backend alongside a responsive React and TypeScript frontend, the platform features complete workflows for attendance, time-tracking, project management, file policy document uploads, and dynamic announcements. To optimize performance and developer experience, it incorporates Celery for background task processing (such as notifications and asynchronous jobs), along with automated Alembic database migrations, seed scripts, and Vite proxying for rapid development and tenant onboarding.
+*   **Technical Innovation:** Integrated an automated financial module for milestone based billing and payroll processing, supported by a real time activity monitoring engine to track project health and resource allocation.
 
 ### 🔍 **Multi-Vendor eCommerce Platform**
 **A premium, neon-styled multi-vendor e-commerce platform built with Node.js and PostgreSQL featuring secure customer, vendor, and admin controls**
 *   **Architectural Overview:** A clean website built with HTML/CSS/JS that connects to a fast Node.js backend and a PostgreSQL database.
 *  **Technical Innovation:** Smart database logic that keeps vendor data private, secures user roles, and runs smooth neon animations.
-*   
+  
 ### 🔍 **Vanguard Research AI (VRAI)**
 **Automated Academic Gap Analysis & Verification Tool**
 *   **Architectural Overview:** Designed an AI-driven research assistant to mitigate intellectual redundancy in academic publishing. The tool employs advanced PDF parsing algorithms and Natural Language Processing (NLP) to extract core methodologies and cross-reference them against global research repositories.
@@ -84,11 +87,6 @@ Engineered a scalable, multi-tenant clinic management system designed to streaml
 **AI-Driven Computer Vision Fashion Platform**
 *   **Architectural Overview:** Developed a cross-platform mobile application using **React Native** that utilizes Deep Learning models for image text matching. The system classifies user uploaded imagery to provide curated style recommendations based on visual feature extraction.
 *   **Technical Innovation:** Built high performance, asynchronous web scrapers in **Python** to aggregate real time inventory and pricing data from tier-1 fashion retailers, ensuring the recommendation engine reflects current market availability.
-
-### 🏢 **Admin & Employee Management System**
-**Multi-Tenant SaaS Infrastructure**
-*   **Architectural Overview:** A multi-tenant employee management system that streamlines organization-wide operations by enabling tenant isolation, role-based access control (RBAC), and secure user authentication. Built with a high-performance FastAPI and PostgreSQL backend alongside a responsive React and TypeScript frontend, the platform features complete workflows for attendance, time-tracking, project management, file policy document uploads, and dynamic announcements. To optimize performance and developer experience, it incorporates Celery for background task processing (such as notifications and asynchronous jobs), along with automated Alembic database migrations, seed scripts, and Vite proxying for rapid development and tenant onboarding.
-*   **Technical Innovation:** Integrated an automated financial module for milestone based billing and payroll processing, supported by a real time activity monitoring engine to track project health and resource allocation.
 
 ### 📅 **Task Scheduling System**
 **High-Performance Desktop Utility (C++/Qt)**
